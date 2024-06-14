@@ -18,5 +18,15 @@ as this is supervised Regression based machine learning problem so we will use s
 ## Data Set Info  
 in this data there are 194 rows and 27 columns  
 
+## Results
+Accuracy(r2_score) = 0.9794 # Multiple Linear Regression Model   
+Accuracy(r2_score) = 0.95974 # Random forest Regressor  
+Accuracy(r2_score) = 0.9386 # Decision Tree Regressor  
+
+
+
+
+
+
 
 
